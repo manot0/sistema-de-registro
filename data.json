@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "nome": "TIM MAIA",
+            "idade": 55,
+            "senha": "senha123",
+            "saldo": 0
+        }
+    ]
+}
